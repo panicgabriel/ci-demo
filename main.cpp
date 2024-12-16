@@ -2,7 +2,7 @@
 #include "WeatherAnalyzer.hpp"
 #include "WeatherPresenter.hpp"
 
-int main()
+int main(){
 
 
     OpenMeteoWeatherService weatherService;  // Create dependency (OpenMeteoWeatherService)
